@@ -256,9 +256,6 @@ export default function Home() {
         {/* <FallingLamps /> */}
 
 
-
-
-
         <div className=" md:pt-24 pt-4 md:pb-50 lg:pb-160 relative z-10 pb-24">
           <h2 className="text-[#15528A]  text-center leading-tight text-[30px] sm:text-5xl lg:text-[100px] md:pb-370 pb-0 flex flex-col items-center gap-y-2">
             <span className="font-parisienne">Dhiraj</span>
