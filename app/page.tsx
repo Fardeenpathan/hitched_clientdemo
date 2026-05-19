@@ -286,8 +286,8 @@ export default function Home() {
 
 
             <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl mt-2 text-[16px]">
-              (S/o Mrs. Kanchan & Mr. Sanjay Bhawnani)
-              <br /> (Grandson of Kanta & Kamal Bhawnani)
+              (Grandson of Mrs. Kanta & Mr. Kamal Bhawnani)
+              <br />(S/o Mrs. Kanchan & Mr. Sanjay Bhawnani)
             </p>
 
 
