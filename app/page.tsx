@@ -49,7 +49,7 @@ export default function Home() {
       date: "Saturday, 20th June 2026",
       venue: "The Central Park Hotel",
       venue_address: <>Bund Garden Road, Agarkar Nagar, <br />   Pune, Maharashtra, 411001</>,
-      time: "4pm onwards",
+      time: "4pm Onwards",
       theme: <><b>Theme:-</b> Pretty in Pink Florals,<br/> Pastels & Pink Hues</>,
       link: "https://maps.app.goo.gl/fKxi3eDGsTSd5Aaz6?g_st=ic",
     },
@@ -61,7 +61,7 @@ export default function Home() {
       venue: "The Central Park Hotel",
       venue_address: <>Bund Garden Road, Agarkar Nagar, <br />   Pune, Maharashtra, 411001</>,
       time: "8pm Onwards",
-      theme: <><b>Theme:-</b> Glitz & Glam</>,
+      theme: <><b>Theme:-</b> Glitz and Glam</>,
       link: "https://maps.app.goo.gl/fKxi3eDGsTSd5Aaz6?g_st=ic",
     },
     {
@@ -287,7 +287,7 @@ export default function Home() {
 
             <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl mt-2 text-[16px]">
               (S/o Mrs. Kanchan and Mr. Sanjay Bhawnani)
-              <br /> (GrandSon of Kanta & Kamal Bhawnani)
+              <br /> (Grandson of Kanta & Kamal Bhawnani)
             </p>
 
 
