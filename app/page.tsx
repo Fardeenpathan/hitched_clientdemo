@@ -286,7 +286,7 @@ export default function Home() {
 
 
             <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl mt-2 text-[16px]">
-              (S/o Mrs. Kanchan and Mr. Sanjay Bhawnani)
+              (S/o Mrs. Kanchan & Mr. Sanjay Bhawnani)
               <br /> (Grandson of Kanta & Kamal Bhawnani)
             </p>
 
@@ -301,7 +301,7 @@ export default function Home() {
             </h2>
 
             <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl text-[16px] mt-2">
-              (D/o Mrs. Sarita and Mr. Pradeep Jain)
+              (D/o Mrs. Sarita & Mr. Pradeep Jain)
             </p>
 
             <p className="text-white font-Cormorant-upright lg:text-3xl md:text-2xl text-[24px] mt-8">
@@ -354,7 +354,7 @@ export default function Home() {
               MEET THE
             </h1>
 
-            <h2 className="lg:text-[130px] md:text-2xl text-6xl text-[#00EAFF] lg:pt-0 pt-6 font-Cormorant-upright md:leading-12 leading-8">
+            <h2 className="lg:text-[130px] md:text-2xl text-6xl text-[#00EAFF] lg:pt-0 pt-6 font-Cormorant-upright md:leading-18 leading-8">
               <span className="text-[#ADBAFF]">Bride</span> <br />
               & <br />
               <span className="text-[#3FA9FF]">Groom</span>
@@ -365,7 +365,7 @@ export default function Home() {
       </div>
 
 
-      <div className="hidden md:block bg-[url('/assets/moon.png')] bg-cover bg-no-repeat">
+      <div className="hidden md:block bg-[url('/assets/moon.webp')] bg-cover bg-no-repeat">
         <div className="lg:h-335 md:h-180 flex 3xl:pt-110 lg:pt-90 md:pt-50 3xl:h-410 justify-center">
 
         </div>
@@ -376,7 +376,7 @@ export default function Home() {
       <div className="md:hidden relative flex items-start justify-center">
 
         <img
-          src="/assets/moonmobile.png"
+          src="/assets/moonmobile.webp"
           alt="background"
           className="w-full h-full object-contain"
         />

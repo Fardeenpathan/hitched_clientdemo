@@ -47,7 +47,7 @@ export default function MarriageCountdown() {
                        <a href="https://www.instagram.com/theinvitearc/" target="_blank"><img src="/assets/instagram_w.png" alt="" className="h-10 w-10"/></a>
                         
                     </div>
-                    <p className="lg:text-[16px] text-xl text-[#FFF5B9] mt-6 text-center font-Cormorant-upright">
+                    <p className="lg:text-[22px] text-xl text-[#FFF5B9] mt-6 text-center font-Cormorant-upright">
                         © <a href="https://invitearc.com/" target="_blank">InviteArc</a> 2026 </p>
                 </div>
             </div>

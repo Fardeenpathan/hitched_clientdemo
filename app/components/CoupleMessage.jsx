@@ -58,32 +58,32 @@ export default function CoupleMessage() {
               modules={[EffectCoverflow, Pagination, Autoplay]}
               className="mySwiper"
             >
-              <SwiperSlide>
-                <img src="/assets/couple_img_1.webp" className="rounded-4xl border-6 border-amber-400"/>
+             <SwiperSlide>
+                <img src="/assets/couple_img_1.png"/>
               </SwiperSlide>
 
                <SwiperSlide>
-                <img src="/assets/couple_img_2.webp" className="rounded-4xl border-6 border-amber-400"/>
+                <img src="/assets/couple_img_2.png"/>
               </SwiperSlide>
 
                <SwiperSlide>
-                <img src="/assets/couple_img_3.webp" className="rounded-4xl border-6 border-amber-400"/>
+                <img src="/assets/couple_img_3.png"/>
               </SwiperSlide>
 
                <SwiperSlide>
-                <img src="/assets/couple_img_4.webp" className="rounded-4xl border-6 border-amber-400"/>
+                <img src="/assets/couple_img_4.png"/>
               </SwiperSlide>
 
                <SwiperSlide>
-                <img src="/assets/couple_img_5.webp" className="rounded-4xl border-6 border-amber-400"/>
+                <img src="/assets/couple_img_5.png"/>
               </SwiperSlide>
 
                <SwiperSlide>
-                <img src="/assets/couple_img_6.webp" className="rounded-4xl border-6 border-amber-400"/>
+                <img src="/assets/couple_img_6.png"/>
               </SwiperSlide>
 
                <SwiperSlide>
-                <img src="/assets/couple_img_7.webp" className="rounded-4xl border-6 border-amber-400"/>
+                <img src="/assets/couple_img_7.png"/>
               </SwiperSlide>
 
           
