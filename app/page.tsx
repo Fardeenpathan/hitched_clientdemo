@@ -239,7 +239,7 @@ export default function Home() {
             <span className="font-parisienne [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)]">Deeksha</span>
           </h2>
 
-          <div className="flex flex-col items-center text-center gap-6 mt-0  lg:pt-250 pt-150">
+          <div className="flex flex-col items-center text-center gap-6 mt-0  lg:pt-250 pt-150 md:pt-0">
             {/* <img
               src="/assets/ganesh_inter.png"
               alt="ganesh"
@@ -310,7 +310,7 @@ export default function Home() {
           </div>
 
           <div className="flex justify-center mt-20">
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 lg:gap-32 gap-16 ">
+            <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-3 lg:gap-32 gap-16 ">
               {events.map((event, i) => (
                 <div key={i} className="flex flex-col items-center text-center">
                   <img
@@ -345,13 +345,13 @@ export default function Home() {
                     <span className="text-[22px] md:text-[24px]">Note: Themes optional, vibes unmatched</span></p>
 </div>
 
-          <div className="lg:h-350 md:h-180 h-86 md:pt-0 pt-30 md:pr-180 pr-40 flex flex-col justify-end items-center text-center md:pb-80 pb-10">
+          <div className="lg:h-350 md:h-180 h-86 md:pt-0 pt-30 lg:pr-180 pr-40 md:pr-50  flex flex-col justify-end items-center text-center lg:pb-80 md:pb-40 pb-10">
 
-            <h1 className="lg:text-3xl md:text-xl text-xl text-[#E1EF1E] font-cormorant md:pb-12">
+            <h1 className="lg:text-3xl md:text-2xl text-xl text-[#E1EF1E] font-cormorant md:pb-12">
               MEET THE
             </h1>
 
-            <h2 className="lg:text-[130px] md:text-2xl text-6xl text-[#00EAFF] lg:pt-0 pt-6 font-Cormorant-upright md:leading-18 leading-8">
+            <h2 className="lg:text-[130px] text-6xl text-[#00EAFF] md:pt-0 pt-6 font-Cormorant-upright lg:leading-18 leading-8 md:leading-10">
               <span className="text-[#ADBAFF]">Bride</span> <br />
               & <br />
               <span className="text-[#3FA9FF]">Groom</span>
