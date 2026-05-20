@@ -37,14 +37,14 @@ export default function MarriageCountdown() {
     return (
         <>
             <div className="bg-[url('/assets/countdown_bg.jpg')] bg-cover bg-no-repeat pb-12 md:pb-50 3xl:pb-40">
-                <div className="lg:h-100 md:h-60 h-115">
+                <div className="lg:h-120 md:h-70 h-125">
                     <h2 className="lg:text-[40px] text-4xl text-center text-[#FFF5B9] lg:pt-42 pt-12 font-Cormorant-upright">The countdown begins</h2> 
                       <h2 className="lg:text-[40px] text-2xl text-center text-[#FFF5B9] font-Cormorant-upright"> {timeLeft.days}D {timeLeft.hours}H {timeLeft.minutes}M</h2>
                     <p className="lg:text-[22px] text-[20px] text-[#FFF5B9] mt-4 text-center lg:px-100 md:px-25 px-10 font-Cormorant-upright">
                         Our families are excited that you are able to join us in celebrating what we hope will be one of the happiest days of our lives.
                     </p>
                      <p className="lg:text-[22px] text-[20px] text-[#FFF5B9] mt-4 text-center lg:px-100 md:px-25 px-10 font-Cormorant-upright">
-                        With Best Compliments From, Kanta & Kamal, Kanchan & Sanjay, Rohit & Harsh
+                        With Best Compliments <br/>From, <br/>Kanta & Kamal, Kanchan & Sanjay, Rohit & Harsh
                     </p>
                     <div className="flex flex-col-1 gap-4 justify-center items-center mt-4">
                        <a href="https://www.instagram.com/theinvitearc/" target="_blank"><img src="/assets/instagram_w.png" alt="" className="h-10 w-10"/></a>
