@@ -102,7 +102,7 @@ export default function CoupleMessage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 lg:gap-24 gap-10 sm:gap-16">
 <div className="flex flex-col items-center justify-center text-center md:mt-15">
                 <img
-                  src="/assets/hotel.png"
+                  src="/assets/hoteln.png"
                   alt="car"
                   className="lg:h-20 lg:w-24 h-26 w-32 "
                 />

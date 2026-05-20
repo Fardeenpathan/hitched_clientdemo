@@ -51,7 +51,6 @@ export default function Home() {
       venue_address: <>Bund Garden Road, Agarkar Nagar, <br />   Pune, Maharashtra, 411001</>,
       time: "4pm Onwards",
       theme: <><b>Theme:-</b> Pretty in Pink: <br/> Florals, Pastels & Pink Hues</>,
-      notes:<>Note: Themes optional, vibes unmatched</>,
       link: "https://maps.app.goo.gl/fKxi3eDGsTSd5Aaz6?g_st=ic",
     },
 
@@ -63,7 +62,6 @@ export default function Home() {
       venue_address: <>Bund Garden Road, Agarkar Nagar, <br />   Pune, Maharashtra, 411001</>,
       time: "8pm Onwards",
       theme: <><b>Theme:-</b> Glitz & Glam: <br/> Shimmer, sequins & statement fits</>,
-      notes:<>Note: Themes optional, vibes unmatched</>,
       link: "https://maps.app.goo.gl/fKxi3eDGsTSd5Aaz6?g_st=ic",
     },
     {
@@ -74,7 +72,6 @@ export default function Home() {
       venue_address: <>Bund Garden Road, Agarkar Nagar, <br />   Pune, Maharashtra, 411001</>,
       time: "5pm Onwards",
       theme: <><b>Theme:-</b> Timeless Royalty:<br/> Elegant Ethnic & Royal Silhouettes</>,
-      notes:<>Note: Themes optional, vibes unmatched</>,
       link: "https://maps.app.goo.gl/fKxi3eDGsTSd5Aaz6?g_st=ic",
     },
 
@@ -336,14 +333,17 @@ export default function Home() {
                   </p>
  <p className="text-white font-Cormorant-upright text-[14px] sm:text-base mt-2">
                     <span className="text-[20px]">{event.theme}</span></p>
-                    <p className="text-white font-Cormorant-upright text-[14px] sm:text-base mt-2">
-                    <span className="text-[20px]">{event.notes}</span></p>
+                  
                
                 </div>
               ))}
             </div>
+           
           </div>
-
+ 
+<div className="flex justify-center md:mt-20 mt-10"><p className="text-white font-Cormorant-upright text-[14px] sm:text-base mt-2">
+                    <span className="text-[22px] md:text-[24px]">Note: Themes optional, vibes unmatched</span></p>
+</div>
 
           <div className="lg:h-350 md:h-180 h-86 md:pt-0 pt-30 md:pr-180 pr-40 flex flex-col justify-end items-center text-center md:pb-80 pb-10">
 
